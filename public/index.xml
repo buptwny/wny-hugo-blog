@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on A minimal Hugo website</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on A minimal Hugo website</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Another Note on A blogdown Tutorial</title>
+      <link>http://localhost:1313/note/2017/06/14/another-note/</link>
+      <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/note/2017/06/14/another-note/</guid>
+      <description>I just discovered an awesome tutorial on blogdown written by Alison. I have to admit this is the best blogdown tutorial I have seen so far.</description>
+    </item>
+    <item>
+      <title>A Quick Note on Two Beautiful Websites</title>
+      <link>http://localhost:1313/note/2017/06/13/a-quick-note/</link>
+      <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/note/2017/06/13/a-quick-note/</guid>
+      <description>To me, the two most impressive websites based on blogdown are:&#xA;Rob J Hyndman&amp;rsquo;s personal website. Live Free or Dichotomize by Lucy and Nick et al. I&amp;rsquo;m sure there will be more.</description>
+    </item>
+    <item>
+      <title>A Plain Markdown Post</title>
+      <link>http://localhost:1313/post/2016/02/14/a-plain-markdown-post/</link>
+      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2016/02/14/a-plain-markdown-post/</guid>
+      <description>This sample post is mainly for blogdown users. If you do not use blogdown, you can skip the first section.&#xA;1. Markdown or R Markdown This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:&#xA;You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Goldmark by default, and an R Markdown document is compiled by rmarkdown and Pandoc.</description>
+    </item>
+    <item>
+      <title>Lorem Ipsum</title>
+      <link>http://localhost:1313/post/2015/07/23/lorem-ipsum/</link>
+      <pubDate>Thu, 23 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2015/07/23/lorem-ipsum/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&#xA;Quisque mattis volutpat lorem vitae feugiat.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&#xA;孤独的观察者 我在这陌生的地方 这里的人这里的街道和楼房 都与我无关 我与他们也无关 可是为什么我享受这种感觉 我 是个懒人，做了多年开发，下班后几乎从不钻研技术。我是个勤快的人，可以每天锻炼身体消耗600大卡。我是个悲观的人，常常只看到社会的黑暗，人性的阴暗。我是个乐观的人，即使一年不上班，也坚信自己能走出来。&#xA;我是个矛盾的人，回顾这么多年来，思来想去，对自己的认识只有&amp;quot;孤独的观察者&amp;ldquo;是比较准确的判断。&#xA;我喜欢和人讨论问题，讨论哲学问题、社会问题和艺术问题。可是现实中找不到这样一个人，我可以和他通宵达旦畅谈一个我们都关心的问题。现实中与人讨论问题的经历大部分体验都很不好，有的是敷衍我的问题；有的是只是为了否定我而与我讨论；有的是为了分出高下分出胜负来和我讨论。几乎没有找到以分享知识，探索未知，思考真理的态度和姿态与我谈论的人。&#xA;你有一个苹果，我有一个苹果，我俩互换一下，还是各自一个苹果。&#xA;你有一种思想，我有一种思想，我俩探讨一下，就有新的思想。&#xA;对于后者，如王小波说的，需要有一种心胸，而现实中的大部分人，全然没有这种心胸，只停留在知识的多寡，分个高下，效率与利益。缺少这种心胸的探讨，是全然无味且浪费时间的，没有活力，没有激情，干瘪且恶臭。即使是古希腊喜欢逮住一个人就和他讨论问题的苏格拉底，肯定也会避开这样的讨论的。&#xA;我找不到这样的好友，与我畅谈。往前大部分时间只能自己默默思考，现在我想写一些东西，看一些书，与书里的作者畅谈，然后得出一些自己的新想法，新思想，即使微不足道。&#xA;很久很久没有写东西了，写的杂乱，也很痛快，就像从泥土里爬出来，呼吸了些新鲜空气。&#xA;A rolling stone gathers no moss. </description>
+    </item>
+  </channel>
+</rss>
